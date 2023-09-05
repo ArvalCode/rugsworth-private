@@ -20,3 +20,4 @@ A discord bot written in **Rust** with the help of [serenity](https://github.com
 5. Create a discord bot so you can run the bot local on your computer
 6. Set the environment variables that are listed as example in [.envexample](./.envexample)
 7. You should be able to run `cargo run` successfully
+# rugsworth-private
