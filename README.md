@@ -19,4 +19,6 @@ A discord bot written in Rust with the assistance of Songbird and Serenity.
 5. Create a discord bot so you can run the bot local on your computer
 6. Set the environment variables (.env files) use current one as example
 7. You should be able to run `cargo run` successfully
+
 # rugsworth-private
+Project to suffice the need to learn programming in Rust.

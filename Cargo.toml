@@ -1,5 +1,5 @@
 [package]
-name = "yoitsus"
+name = "rugsworth"
 version = "0.1.0"
 edition = "2021"
 
@@ -18,4 +18,8 @@ chrono = "0.4.24"
 timeago = "0.4.1"
 regex = "1.8.3"
 chat-gpt-lib-rs = "0.2.1"
+openssl = "0.10.57"
+pkg-config = "0.3.27"
+audiopus_sys = "0.2.2"
+python = "0.0.0"
 
