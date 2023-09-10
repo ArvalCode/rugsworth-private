@@ -22,3 +22,13 @@ A discord bot written in Rust with the assistance of Songbird and Serenity.
 
 # rugsworth-private
 Project to suffice the need to learn programming in Rust.
+
+
+# How to download on Windows Linux Sybsystem
+1. Downloads Window Linux Subsystem using microsoft store
+2. Update repositories by doing 'sudo apt update'
+3. Download rust by doing 'sudo apt install rustup'
+4. Open File Explorer on Windows and go to /Ubuntu/home/{USERNAME}/ and create a downloads folder there to store the bot
+5. cd /home/{USERNAME}/downlaods/rugsworth-private
+6. Before you run the bot, you must download cmake, openssl-sys (If it still gives an error, download whatever it is missing and create an issue regarding it posted with error code for help)
+7. 'cargo run'
