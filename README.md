@@ -31,4 +31,10 @@ Project to suffice the need to learn programming in Rust.
 4. Open File Explorer on Windows and go to /Ubuntu/home/{USERNAME}/ and create a downloads folder there to store the bot
 5. cd /home/{USERNAME}/downlaods/rugsworth-private
 6. Before you run the bot, you must download cmake, openssl-sys (If it still gives an error, download whatever it is missing and create an issue regarding it posted with error code for help)
-7. 'cargo run'
+7. rustup update stable ('sudo snap install rustup' for installation)
+8. 'cargo run'
+
+If you run into troubles, make an issue.
+
+Troubleshooting:
+sudo apt update/sudo apt upgrade
